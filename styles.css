@@ -1,0 +1,27 @@
+nav:after {
+  display: table;
+  content: '';
+  clear: both;
+}
+
+#navbar {
+	background-color: gray;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	display: inline;
+	margin: 20px;
+	float: right;
+}
+
+a {
+	text-decoration: none;
+}
+
+h1 {
+	text-align: center;
+}
