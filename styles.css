@@ -4,8 +4,13 @@ nav:after {
   clear: both;
 }
 
+body {
+	background-color:  #d9d9d9;
+	margin: 20px;
+}
+
 #navbar {
-	background-color: gray;
+	background-color: #b3b3b3;
 }
 
 ul {
@@ -24,6 +29,7 @@ a {
 
 h1 {
 	text-align: center;
+
 }
 
 p {
