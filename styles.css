@@ -37,3 +37,7 @@ p {
 	font-size: 16pt;
 	font-style: inherit;
 }
+
+img {
+	margin: 20px;
+}
