@@ -1,0 +1,17 @@
+#epitaph {
+	text-align: right;
+	font-style: italic;
+	margin-right: 20px;
+	font-size: 14pt;
+	font-family: courier; 
+}
+
+#poem {
+	margin-left: 20px;
+	font-size: 14pt;
+	font-family: courier; 
+}
+
+h1 {
+	font-family: courier; 
+}
