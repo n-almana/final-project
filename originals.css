@@ -9,8 +9,15 @@
   height: 200px;
   width: 300px;
   margin: 20px;
+  text-align: center;
 }
 
 h1 {
 	font-family: courier; 
+}
+
+@media screen and (max-width: 300px) {
+  .poem {
+  width: 100%;
+  }
 }
