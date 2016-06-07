@@ -5,7 +5,7 @@
 }
 
 .poem {
-  border: 1px solid black;
+  border: 3px solid black;
   height: 200px;
   width: 300px;
   margin: 20px;
@@ -14,6 +14,11 @@
 
 h1 {
 	font-family: courier; 
+}
+
+img {
+  width: 100%;
+  height: 100%;
 }
 
 @media screen and (max-width: 300px) {
