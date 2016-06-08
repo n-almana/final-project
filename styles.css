@@ -8,10 +8,10 @@ body {
 	background-color:  #d9d9d9;
 	margin: 20px;
 	font-family: courier; 
-}
-
-#navbar {
-	background-color: #b3b3b3;
+	background-image: url("background.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
 }
 
 ul {
@@ -26,6 +26,7 @@ li {
 
 a {
 	text-decoration: none;
+	font-size: 14pt;
 }
 
 h1 {
@@ -37,7 +38,3 @@ p {
 	font-style: italic;
 	font-size: 24pt; 
 }
-
-/*img {
-	margin: 20px;
-}*/

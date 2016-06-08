@@ -1,0 +1,8 @@
+#faves {
+	display: flex;
+}
+
+img {
+	margin: auto;
+	border: solid black 2px;
+}
